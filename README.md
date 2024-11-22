@@ -1,6 +1,10 @@
 Free to use, if code is used in a retail product, please include credit to Micah Berninghausen 4/23/2024.
 Compiled with UE5.3.2 (calls should work for all UE5+)
 
+UPDATED MULTITHREAD & Particle Death Exporting Nanite Niagara Plugin is on Unreal Engine's new Market Place "FAB" if you would like to support my development:
+https://www.fab.com/listings/8fd30267-159a-4fdc-a9f1-c4180e00845c
+Thank you and Good Luck!
+
 Details/Tutorial and code by @gamedevMicah / Micah Berninghausen / Aggressive Mastery LLC / r/diepepsi 
 
 Youtube Video on Code : "Nanite Niagara"
